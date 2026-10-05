@@ -1,0 +1,21 @@
+# Johannes Cortez
+
+> Johannes Cortez is the founder of Prom13us. His personal site collects his founder work, public profiles and writing about agent-native games, where people coach autonomous AI agents.
+
+The articles express Johannes Cortez's views on game design. Predictions and proposed game formats are not claims about established industry practice. "Daddy of Agentic Gaming" is his tongue-in-cheek self-description, not an independently established title.
+
+## About Johannes
+
+- [Homepage and questions about Johannes Cortez](https://cortezjohannes.github.io/): Founder work, short answers, public appearances and verified profile links.
+
+## Selected writing
+
+- [The next generation of games](https://cortezjohannes.github.io/the-next-generation-of-games.html): His thesis on new forms of play built around AI.
+- [Agent-native games are missing a controller](https://cortezjohannes.github.io/agent-native-games-are-missing-a-controller.html): His view of the controller needed for agent-native games.
+- [A game character should remember more than its stats](https://cortezjohannes.github.io/a-game-character-should-remember-more-than-its-stats.html): Shared history and trust as progression.
+- [Agent esports starts before the match](https://cortezjohannes.github.io/agent-esports-starts-before-the-match.html): Playbooks and coached habits in a possible agent-esports format.
+
+## Public profiles
+
+- [GitHub](https://github.com/Cortezjohannes): Public development activity.
+- [dev.to](https://dev.to/cortezjohannes): Article mirrors with original-site attribution and canonical links.
